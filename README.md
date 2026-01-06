@@ -1,11 +1,34 @@
-Personal Profile Page
+# 👤 Personal Profile Page
 
-A HTML resume page.
+A clean and responsive **HTML resume/profile page** showcasing personal details, skills, and contact information.  
+Built with simplicity and clarity in mind.
 
-🚀 Live Demo
+---
 
-personal-profile-page-ivory.vercel.app
+## 🚀 Live Demo
+👉 [View Live Project](https://personal-profile-page-ivory.vercel.app)
 
-👨‍💻 Author
+---
 
-Priya Verma
+## 🛠️ Tech Stack
+- HTML5
+
+---
+
+## ✨ Features
+- Simple and clean resume layout
+- Responsive design
+- Easy to customize
+- Fast loading static page
+
+---
+
+## 📂 Use Case
+- Personal portfolio
+- Online resume
+- Beginner frontend project
+
+---
+
+## 👨‍💻 Author
+**Priya Verma**
